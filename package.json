@@ -4,7 +4,7 @@
   "description": "Promise-based Apple iTunes Connect Reporter",
   "main": "lib/index.js",
   "files": [
-    "dist"
+    "lib"
   ],
   "scripts": {
     "build": "babel lib --out-dir dist",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/beardon/apple-reporter.git"
+    "url": "https://github.com/irkmag/apple-reporter.git"
   },
   "keywords": [
     "apple",
@@ -32,9 +32,9 @@
   "author": "Tyson Cleary <amec@tyscorp.net> (https://github.com/tyscorp)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beardon/apple-reporter/issues"
+    "url": "https://github.com/irkmag/apple-reporter/issues"
   },
-  "homepage": "https://github.com/beardon/apple-reporter",
+  "homepage": "https://github.com/irkmag/apple-reporter",
   "engine": {
     "node": ">= 4.2.0"
   },
